@@ -1,4 +1,4 @@
 # nycda-css-transitions
-Used CSS animations to create an onScroll JavaScript event listener for a simple but pretty website. 
+Used JavaScript event listeners and CSS to create an onScroll event for a simple but pretty website. 
 
 Images scale on window resizing.
